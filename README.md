@@ -13,7 +13,7 @@ In this repository, for BumbleBee you will find:
 * :white_check_mark: [Executable for the tool](https://github.com/SoftwareEngineeringToolDemos/FSE-2014-BumbleBee/blob/master/BumbleBee.zip)
 
 
-This repository was constructed by [Sujith Katakam](https://github.com/sujithktkm) under the supervision of [Emerson Murphy-Hill](https://github.com/CaptainEmerson). Thanks to [Felienne Hermans](http://www.felienne.com/) and **Efthimia Aivaloglou** for their help in establishing this repository. 
+This repository was constructed by [Sujith Katakam](https://github.com/sujithktkm) under the supervision of [Emerson Murphy-Hill](https://github.com/CaptainEmerson). Thanks to [Felienne Hermans](http://www.felienne.com/) and **Efthimia Aivaloglou** for their help in establishing this repository. And thanks to the original authors [Felienne Hermans](http://www.felienne.com/) and **Danny Dig** of the paper we referenced for this repo.
 
 
 Additional Information:
@@ -27,4 +27,4 @@ The [executable tool](https://github.com/SoftwareEngineeringToolDemos/FSE-2014-B
 
 
 Repository (Program) history:
-This tool did not originally be distributed through Github or any other open source platform. It opened to download in [author's Blog](http://www.felienne.com/archives/2964). So the repository deos not maintain previous history.
+This tool did not originally be distributed through Github or any other open source platforms. It is open to download in [author's Blog](http://www.felienne.com/archives/2964). So the repository deos not maintain previous history.

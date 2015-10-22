@@ -13,3 +13,9 @@ In this repository, for BumbleBee you will find:
 * :white_check_mark: [Executable for the tool](https://github.com/SoftwareEngineeringToolDemos/FSE-2014-BumbleBee/blob/master/BumbleBee.zip)
 
 This repository was constructed by [Sujith Katakam](https://github.com/sujithktkm) under the supervision of [Emerson Murphy-Hill](https://github.com/CaptainEmerson). Thanks to [Felienne Hermans](http://www.felienne.com/) and **Efthimia Aivaloglou** for their help in establishing this repository.
+
+
+Additional Information:
+-----------------------
+Tool inforamtion:
+The [executable tool](https://github.com/SoftwareEngineeringToolDemos/FSE-2014-BumbleBee/blob/master/BumbleBee.zip) in our repository is a version for EXCEL 2010. It  is an installer for Excel 2010. By adding your own transformations to the worksheet ‘Transformations’ and hitting ‘Initialize’ you can create your own rules and play around with them. (quoted from authors' website)

@@ -20,7 +20,7 @@ Additional Information:
 -----------------------
 
 Tool inforamtion:
-The [executable tool](https://github.com/SoftwareEngineeringToolDemos/FSE-2014-BumbleBee/blob/master/BumbleBee.zip) in our repository is a version for EXCEL 2010. It  is an installer for Excel 2010. By adding your own transformations to the worksheet ‘Transformations’ and hitting ‘Initialize’ you can create your own rules and play around with them. (quoted from authors' website).
+The [executable tool](https://github.com/SoftwareEngineeringToolDemos/FSE-2014-BumbleBee/blob/master/BumbleBee.zip) in our repository is a version for EXCEL 2010. It  is an installer for Excel 2010. By adding your own transformations to the worksheet ‘Transformations’ and hitting ‘Initialize’ you can create your own rules and play around with them. (quoted from author's website).
 
 
 
